@@ -7,6 +7,7 @@
 - ASP.NET API (работа с апи)
 - Laravel (авторизационный сервер)
 - PosgresSQL (база данных)
+- Laravel + postgres (файловый сервер)
 
 Фронэнд:
 - React.JS
